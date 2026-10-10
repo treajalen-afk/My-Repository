@@ -4,8 +4,6 @@ The is my walkthrough on how to create a RHEL repository
 <img width="897" height="141" alt="Login as root user" src="https://github.com/user-attachments/assets/3d77f12d-bb4c-4290-b558-a004bf73e531" />
 First login as root user
 
-
-
 <img width="898" height="49" alt="Create repo directory" src="https://github.com/user-attachments/assets/4ee6fab9-3c85-4eb4-beea-7a77d50660f1" />
 Then create the repo directory
 
